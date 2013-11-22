@@ -2,7 +2,9 @@ Full default configuration
 ==========================
 
 ```yaml
+Default configuration for extension with alias: "fos_rest"
 fos_rest:
+    disable_csrf_role:    ~
     access_denied_listener:
 
         # Prototype
